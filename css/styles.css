@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+.caja1{
+background-color: aquamarine;
+height: 50px;
+}
+
+.caja2{
+background-color: aqua;
+height: 200px;
+}
+
+.caja3{
+background-color: beige;
+height: 100px;
+}
+
+.caja4{
+background-color: blanchedalmond;
+height: 500px;
+}
+
+.caja5{
+background-color: blue;
+height: 500px;
+}
+
+.caja6{
+background-color: blueviolet;
+height: 500px;
+}
+
+.caja7{
+background-color: red;
+height: 500px;
+}
+
+.caja8{
+background-color: green;
+height: 500px;
+}
+
+.cajita1{background-color: pink;}
+.cajita2{background-color: lightblue;}
+.cajita3{background-color: brown;}
+.cajita4{background-color: deeppink;
+}
+.cajita5{background-color: gray;}
+.cajita6{
+    background-color: blueviolet;
+}
